@@ -1,0 +1,4 @@
+FlameGraph/
+perf.data
+perf.data.old
+*.svg

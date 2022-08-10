@@ -1,2 +1,2 @@
 # sak-tools
-A swiss army knife tools collections for research.
+A swiss army knife tools collection for research.
